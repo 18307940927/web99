@@ -1,0 +1,24 @@
+<html>
+    <head>
+    <style>
+        #name{
+            background-color: red;
+            font-size: 30px;
+        }
+    </style>
+    </head>
+    <body>
+    <p id ="name">江西软件职业技术大学</p>
+    <button id="btn1" type="submit">提交<tton>
+    <script>
+         var target =document.getElementById("btn1");
+                target.onclick = function(){
+                    alert("你点击我了");
+                }
+                document.body.onmousemove=function()
+                {
+                    console.log("鼠标在移动。。。。");
+                }
+            </script>  
+    </body>
+<html>
