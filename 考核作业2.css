@@ -1,0 +1,46 @@
+#c1{
+    background-color: greenyellow;
+    height:40px;
+    width: 500px;
+    border: darkgray solid 0.0857rem;
+    text-align: center;
+}
+#c2{
+    background-color: hotpink;
+    height:360px;
+    width: 500px;
+    border: darkgray solid 0.0857rem;
+    margin-top: 15px;
+    text-align: center;
+}
+#c3{
+    background-color: khaki;
+    height:90px;
+    width: 140px;
+    border: darkgray solid 0.0857rem;
+    float: left;
+    margin-left: 18px;
+    margin-top: 18px;
+    text-align: center;
+    font-weight: 180px;
+    line-height: 90px;
+}
+#c4{
+    background-color: red;
+    height:80px;
+    width:500px;
+    border:darkgray solid 0.0857rem;
+    margin-top: 15px;
+}
+#c5{
+    background-color: blue;
+    height:90px;
+    width: 500px;
+    text-align: center;
+    border: darkgray solid 0.0857rem;
+    font-weight: 180px;
+    line-height: 90px;
+    display: inline-block;
+}
+
+
